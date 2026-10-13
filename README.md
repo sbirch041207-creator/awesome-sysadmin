@@ -792,6 +792,7 @@ VPN software.
 - [Awesome SysAdmin @ LibHunt](https://sysadmin.libhunt.com) - Your go-to SysAdmin Toolbox. Based on the list here.
 - [Ops School](https://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
 - [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - 6,000+ tutorials for getting the basics of certain applications/tools/systems administration topics.
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Collection of lists, manuals, cheatsheets, blogs, hacks, one-liners, and CLI/web tools for system and network administrators, DevOps, pentesters, and security researchers.
 
 ------------------
 
